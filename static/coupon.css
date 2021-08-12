@@ -7,7 +7,7 @@
     margin: 0;
     box-sizing: border-box;
 }
-/* End Global rules */C 
+/* End Global rules */
 
 /* Start body rules */
 body {
@@ -45,19 +45,7 @@ form {
     background-image: linear-gradient(-225deg, #E3FDF5 50%, #e0d2f8 50%);
 }
 /* form Container */
-form .con {
-    display: -webkit-flex;
-    display: flex;
-  
-    -webkit-justify-content: space-around;
-    justify-content: space-around;
-  
-    -webkit-flex-wrap: wrap;
-    flex-wrap: wrap;
-  
-      margin: 0 auto;
-      padding-top: 30%;
-}
+
 
 /* the header form form */
 header {
